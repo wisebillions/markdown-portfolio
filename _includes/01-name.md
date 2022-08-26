@@ -1,2 +1,0 @@
-Wisdom Nimako 
-- [ ] DevOps Engineer
